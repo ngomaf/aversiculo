@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="29" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:C-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">2022-02-05T00:22:41.574782177</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">2022-02-05T00:13:10.386799642</m>
+<m key="dc.format">application/x-abiword</m>
+<m key="meta:editing-cycles">2</m>
+<m key="meta:editing-duration">PT9M37S</m>
+</metadata>
+<rdf>
+<t  s="styles.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#StylesFile</t>
+<t  s="content.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#ContentFile</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >styles.xml</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >content.xml</t>
+<t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
+</rdf>
+<styles>
+<s type="P" name="Normal" props="widows:2; font-size:12pt; dom-dir:ltr; lang:pt-PT; default-tab-interval:1.251cm; orphans:2; font-family:Liberation Serif"/>
+<s type="P" name="Caption" basedon="Normal" followedby="Caption" props="margin-top:0.212cm; font-size:12pt; margin-bottom:0.212cm; font-style:italic"/>
+<s type="P" name="Heading" basedon="Normal" followedby="Text body" props="margin-top:0.423cm; keep-with-next:yes; margin-bottom:0.212cm; font-family:Liberation Sans; font-size:14pt"/>
+<s type="P" name="Text body" basedon="Normal" followedby="Text body" props="margin-top:0cm; line-height:1.150000; margin-bottom:0.247cm"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1" props="page-margin-right:2cm; page-width:21.001cm; page-margin-left:2cm; page-orientation:portrait; page-margin-bottom:2cm; page-margin-top:2cm; page-height:29.7cm">
+<p style="Normal" xid="2"><c props="font-family:Nunito; font-size:16pt">Paleta de cores</c></p>
+<p style="Normal" xid="3"><c></c></p>
+<table xid="4" props="table-column-props:4.251cm/4.251cm/4.251cm/4.251cm/; table-row-heights:///; table-rel-column-props:16383*/16383*/16383*/16383*/; table-width:17cm">
+<cell xid="5" props="left-color:#000080; bot-style:solid; bot-thickness:0.05pt; right-attach:1; top-thickness:0.05pt; top-color:#000080; bot-color:#000080; left-attach:0; top-style:solid; right-style:none; left-style:solid; left-thickness:0.05pt; bot-attach:1; top-attach:0">
+<p style="Normal" xid="6" props="text-align:center; shading-foreground-color:#3f8efc; shading-pattern:1; bgcolor:#3f8efc">3f8efc</p>
+</cell>
+<cell xid="7" props="left-color:#000000; bot-style:solid; bot-thickness:0.05pt; right-attach:2; top-thickness:0.05pt; top-color:#000000; bot-color:#000000; left-attach:1; top-style:solid; right-style:none; left-style:solid; left-thickness:0.05pt; bot-attach:1; top-attach:0">
+<p style="Normal" xid="8" props="text-align:center; shading-foreground-color:#0a0a63; shading-pattern:1; bgcolor:#0a0a63">0a0a63</p>
+</cell>
+<cell xid="9" props="left-color:#000000; bot-style:solid; bot-thickness:0.05pt; right-attach:3; top-thickness:0.05pt; top-color:#000000; bot-color:#000000; left-attach:2; top-style:solid; right-style:none; left-style:solid; left-thickness:0.05pt; bot-attach:1; top-attach:0">
+<p style="Normal" xid="10" props="text-align:center; shading-foreground-color:#a70000; shading-pattern:1; bgcolor:#a70000">a70000</p>
+</cell>
+<cell xid="11" props="right-color:#000000; left-color:#000000; bot-style:solid; bot-thickness:0.05pt; right-attach:4; top-thickness:0.05pt; right-thickness:0.05pt; top-color:#000000; bot-color:#000000; left-attach:3; top-style:solid; right-style:solid; left-style:solid; left-thickness:0.05pt; bot-attach:1; top-attach:0">
+<p style="Normal" xid="12" props="text-align:center; shading-foreground-color:#fbfbb8; shading-pattern:1; bgcolor:#fbfbb8">fbfbb8</p>
+</cell>
+<cell xid="13" props="bot-style:solid; bot-thickness:0.05pt; right-attach:1; left-thickness:0.05pt; left-color:#ff0000; top-style:none; left-attach:0; left-style:solid; right-style:none; bot-color:#ff0000; bot-attach:2; top-attach:1">
+<p style="Normal" xid="14" props="text-align:center; shading-foreground-color:#ff0000; shading-pattern:1; bgcolor:#ff0000">ff0000</p>
+</cell>
+<cell xid="15" props="bot-style:solid; bot-thickness:0.05pt; right-attach:2; left-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:1; left-style:solid; right-style:none; bot-color:#000000; bot-attach:2; top-attach:1">
+<p style="Normal" xid="16" props="text-align:center; shading-foreground-color:#0aff00; shading-pattern:1; bgcolor:#0aff00">0aff00</p>
+</cell>
+<cell xid="17" props="bot-style:solid; bot-thickness:0.05pt; right-attach:3; left-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:2; left-style:solid; right-style:none; bot-color:#000000; bot-attach:2; top-attach:1">
+<p style="Normal" xid="18" props="text-align:center; shading-foreground-color:#666666; shading-pattern:1; bgcolor:#666666">666666</p>
+</cell>
+<cell xid="19" props="right-color:#000000; bot-style:solid; bot-thickness:0.05pt; right-attach:4; left-thickness:0.05pt; right-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:3; left-style:solid; right-style:solid; bot-color:#000000; bot-attach:2; top-attach:1">
+<p style="Normal" xid="20" props="text-align:center; shading-foreground-color:#bbbbbb; shading-pattern:1; bgcolor:#bbbbbb">bbbbbb</p>
+</cell>
+<cell xid="21" props="bot-style:solid; bot-thickness:0.05pt; right-attach:1; left-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:0; left-style:solid; right-style:none; bot-color:#000000; bot-attach:3; top-attach:2">
+<p style="Normal" xid="22" props="text-align:center"><c></c></p>
+</cell>
+<cell xid="23" props="bot-style:solid; bot-thickness:0.05pt; right-attach:2; left-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:1; left-style:solid; right-style:none; bot-color:#000000; bot-attach:3; top-attach:2">
+<p style="Normal" xid="24" props="text-align:center"><c></c></p>
+</cell>
+<cell xid="25" props="bot-style:solid; bot-thickness:0.05pt; right-attach:3; left-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:2; left-style:solid; right-style:none; bot-color:#000000; bot-attach:3; top-attach:2">
+<p style="Normal" xid="26" props="text-align:center"><c></c></p>
+</cell>
+<cell xid="27" props="right-color:#000000; bot-style:solid; bot-thickness:0.05pt; right-attach:4; left-thickness:0.05pt; right-thickness:0.05pt; left-color:#000000; top-style:none; left-attach:3; left-style:solid; right-style:solid; bot-color:#000000; bot-attach:3; top-attach:2">
+<p style="Normal" xid="28" props="text-align:center"><c></c></p>
+</cell>
+</table>
+<p style="Normal" xid="29"></p>
+</section>
+</abiword>
